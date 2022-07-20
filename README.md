@@ -5,7 +5,7 @@ The Distracted Driver is a ML-based project that aims to record actions, and the
 ## How we built it
 We used _jupyter notebook_ to implement a cascading classifier that was trained using more than 1800 samples of eyes to detect signs of drowsiness. We used Keras running on top of TensorFlow, numpy, pandas and other python modules. Most of the code was written in _jupyter notebook_ in Windows 10.
 ## Challenges we ran into
-For newbies like us applying ML on the fly in a project is difficult where each turn is equipped with errors and warnings. The _cv2_ module was particularly difficult to navigate due to its plethora of errors.
+For newbies like us applying ML on the fly in a project is difficult where each turn is equipped with errors and warnings. The _cv2_ module was particularly difficult to navigate due to the plethora of errors we ran into.
 ## Accomplishments that we're proud of
 We are proud of learning how to correct errors as quickly as possible while learning how these faults made our programs tick.
 ## What we learned
